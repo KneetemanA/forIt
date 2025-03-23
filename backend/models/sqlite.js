@@ -14,7 +14,7 @@ const tasksDb = new sqlite.Database(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     title TEXT NOT NULL,
     description TEXT NOT NULL,
-    complete BOOLEAN DEFAULT FALSE,
+    completed BOOLEAN,
     createdAt DATE
     )`;
 
