@@ -42,19 +42,19 @@ Configuración frontend, abrir otra terminal:
 Las imagenes a continuacion muestran que la app esta funcionando correctamente!
 
 Imagen 1: La lista de tareas
-(imgChallenge/img-1.png)
+![Página de inicio](imgChallenge/img-1.png)
 
 Imagen 2: Formulario de tarea con una adveritencia para completa el campo
-(imgChallenge/img-2.png)
+![lista](imgChallenge/img-2.png)
 
 Imagen 3: Formulario completo, con la opción de marcar completo o no, si no tildo completo, en la lista la tarea aparece como pendiente.
-(imgChallenge/img-3.png)
+![FormTask](imgChallenge/img-3.png)
 
 Imagen 4: Muestra la lista de tarea con la tarea creada
-(imgChallenge/img-4)
+![ListaTask](imgChallenge/img-4)
 
 Imagen 5: Muestra el formulario para actualizar la tarea
-(imgChallenge/img-5)
+![Formulario para actualizar](imgChallenge/img-5)
 
 Imagen 6: Muestra la tarea actualizada
-(imgChallenge/img-6)
+![Actualizada](imgChallenge/img-6)
