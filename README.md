@@ -51,10 +51,10 @@ Imagen 3: Formulario completo, con la opción de marcar completo o no, si no til
 ![FormTask](imgChallenge/img-3.png)
 
 Imagen 4: Muestra la lista de tarea con la tarea creada
-![ListaTask](imgChallenge/img-4)
+![ListaTask](imgChallenge/img-4.png)
 
 Imagen 5: Muestra el formulario para actualizar la tarea
-![Formulario para actualizar](imgChallenge/img-5)
+![Formulario para actualizar](imgChallenge/img-5.png)
 
 Imagen 6: Muestra la tarea actualizada
-![Actualizada](imgChallenge/img-6)
+![Actualizada](imgChallenge/img-6.png)
